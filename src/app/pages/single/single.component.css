@@ -1,0 +1,33 @@
+*{
+    color: rgb(40, 40, 40);
+    margin-left: 20px;
+    background-color: white;
+}
+
+h5{
+    margin-left: 20px;
+}
+
+.img-fluid{
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    height: 650px;
+    width: 500px;
+}
+
+.desc{
+    font-size: 25px;
+    text-indent: 0px;
+    padding-left: 10px;
+    color: rgb(84, 84, 84);
+}
+
+.h1{
+    font-size: 50px;
+}
+
+.des{
+    height: 25px;
+    width: 32px;
+}
